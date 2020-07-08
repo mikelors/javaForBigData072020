@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/gs-rest-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/tutorial-rest-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ASF/3. Spring/practica1Spring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ASF/3. Spring/practica2Spring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ASF/solidExamples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ASF/spring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ASF/springLaboratory" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../fitnesse" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../labo/tree-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
