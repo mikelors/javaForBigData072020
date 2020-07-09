@@ -1,0 +1,1 @@
+https://es.wikipedia.org/wiki/N%C3%BAmero_triangular
