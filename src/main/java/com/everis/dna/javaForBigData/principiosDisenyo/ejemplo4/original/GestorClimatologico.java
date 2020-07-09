@@ -1,7 +1,8 @@
 package com.everis.dna.javaForBigData.principiosDisenyo.ejemplo4.original;
 
-import com.everis.dna.javaForBigData.principiosDisenyo.ejemplo4.solucion.emisores.EmisorDeEmails;
-import com.everis.dna.javaForBigData.principiosDisenyo.ejemplo4.solucion.emisores.EmisorDeSMS;
+
+import com.everis.dna.javaForBigData.principiosDisenyo.ejemplo4.original.emisores.EmisorDeEmails;
+import com.everis.dna.javaForBigData.principiosDisenyo.ejemplo4.original.emisores.EmisorDeSMS;
 
 public class GestorClimatologico {
     String condicionesActuales;

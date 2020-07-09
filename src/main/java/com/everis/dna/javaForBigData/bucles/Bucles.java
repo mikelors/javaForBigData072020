@@ -2,23 +2,23 @@ package com.everis.dna.javaForBigData.bucles;
 
 public class Bucles {
 
-    public static void main(String args[]){
-
-        System.out.println("1 - Sucesiones aritméticas");
-        System.out.println("-----------------------------");
-
-        escribirSucesionAritmetica(2, 11, 1);
-        escribirSucesionAritmetica(2,19,2);
-        escribirSucesionAritmetica(5,32, 3);
-        escribirSucesionAritmetica(0,25,5);
-
-        System.out.println("4 - Sumatorio y Factorial");
-        System.out.println("-----------------------------");
-
-        System.out.println("Sumatorio de 5: " + sumatorio(5));
-        System.out.println("Factorial de 5: " + factorial(5));
-
-    }
+//    public static void main(String args[]){
+//
+//        System.out.println("1 - Sucesiones aritméticas");
+//        System.out.println("-----------------------------");
+//
+//        escribirSucesionAritmetica(2, 11, 1);
+//        escribirSucesionAritmetica(2,19,2);
+//        escribirSucesionAritmetica(5,32, 3);
+//        escribirSucesionAritmetica(0,25,5);
+//
+//        System.out.println("4 - Sumatorio y Factorial");
+//        System.out.println("-----------------------------");
+//
+//        System.out.println("Sumatorio de 5: " + sumatorio(5));
+//        System.out.println("Factorial de 5: " + factorial(5));
+//
+//    }
 
     private static void escribirSucesionAritmetica(int limiteInferior, int limiteSuperior, int incremento) {
         for (int i=limiteInferior; i<=limiteSuperior; i+=incremento){

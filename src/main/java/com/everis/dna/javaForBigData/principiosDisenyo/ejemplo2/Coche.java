@@ -7,7 +7,7 @@ public class Coche extends Vehiculo {
     @Override
     public void cambiarDeMarcha(Marcha marcha) {
         if(Marcha.R.equals(marcha) && getMarcha().equals(Marcha.D)){
-            throw new RuntimeException("No se puede meter MARCHA ATRÁS mientras la marcha"
+            throw new RuntimeException("No se puede meter MARCHA ATRAS mientras la marcha"
                     + getMarcha().toString() + " está metida!");
         }
     }
