@@ -36,7 +36,14 @@ public class OfertaHotelera {
      * En caso de no existir ningún hotel para la ciudad dada, deberá devolver una lista vacía.
      * */
     public List<Hotel> obtenerHotelesDeUnaCiudad(Ciudad ciudad) {
-        return null;
+        ArrayList<Hotel> listaHotelesCiudad = new ArrayList<>();
+
+        for (Hotel hotel: hoteles) {
+            if (hotel.getCiudad().equals(ciudad)) {
+                listaHotelesCiudad.add(hotel);
+            }
+        }
+        return listaHotelesCiudad;
     }
 
     /*
@@ -46,7 +53,12 @@ public class OfertaHotelera {
      * */
     public Hotel obtenerHotelPorId (Integer id) {
 
-        return null;
+        for (Hotel hotel: hoteles) {
+            if (hotel.getId() == id) {
+                return hotel;
+            }
+        }
+        throw new NoSuchElementException("ID de Hotel no valido");
     }
 
     /*

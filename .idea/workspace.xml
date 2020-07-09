@@ -2,46 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a850ed1a-f41c-4996-bfdf-25767aadb25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/ClaseA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/ClaseA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/ClaseB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/drivingModes/Confort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/drivingModes/DrivingMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/drivingModes/Economy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/drivingModes/Sport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/ClaseA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/GestorClimatologico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/Emisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/EmisorDeEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/EmisorDeSMS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/problema/ClaseA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/problema/ClaseB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/problema/ClaseC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/problema/animales/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/problema/animales/AnimalType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/solucion/ClaseA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/solucion/ClaseB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/solucion/animales/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/solucion/animales/Elefante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/solucion/animales/Perro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/solucion/animales/Puma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/strings/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/strings/StringUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/practica/OfertaHoteleraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/sucesiones/Fibonacci/SucesionDeFibonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/sucesiones/OperadorDeSucesionesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/bucles/Bucles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/bucles/Bucles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/helloWorld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/helloWorld/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/Conductor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo2/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo2/Coche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/GestorClimatologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/GestorClimatologico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/OfertaHotelera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/OfertaHotelera.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -91,25 +60,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/drivingModes/Confort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/OperadorDeSucesiones.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/solution/ClaseA.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/sucesiones/OperadorDeSucesionesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="315">
+              <caret line="28" column="16" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,49 +81,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/GestorClimatologico.java">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="97" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/emisores/EmisorDeEmails.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Ciudad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="160">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/emisores/EmisorDeSMS.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Provincia.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/GestorClimatologico.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/OfertaHotelera.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="58" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="58" />
+            <state relative-caret-position="320">
+              <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/ClaseA.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/practica/OfertaHoteleraTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="220">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -169,28 +129,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/EmisorDeEmails.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Empresa.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="45" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/EmisorDeSMS.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Hotel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/Emisor.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/Sucesion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="72" lean-forward="true" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+            <state relative-caret-position="120">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -200,10 +160,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -213,10 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Bucles.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo2/Vehiculo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/OfertaHotelera.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnos.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/AlumnoTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ArrayUtils.java" />
@@ -225,7 +181,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/GestorClimatologico.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/bucles/BuclesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/bucles/Bucles.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/strings/StringUtils.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/strings/StringUtilsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/Animales/ClaseB.java" />
@@ -264,6 +219,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/EmisorDeSMS.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/ClaseA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/GestorClimatologico.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/sucesiones/Fibonacci/SucesionDeFibonacciTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/sucesiones/OperadorDeSucesionesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/OfertaHotelera.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/practica/OfertaHoteleraTest.java" />
       </list>
     </option>
   </component>
@@ -319,7 +279,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
-              <item name="bucles" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="julio" type="b2602c69:ProjectViewProjectNode" />
@@ -328,7 +288,8 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
-              <item name="principiosDisenyo" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="practica" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="julio" type="b2602c69:ProjectViewProjectNode" />
@@ -337,61 +298,8 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
-              <item name="principiosDisenyo" type="462c0819:PsiDirectoryNode" />
-              <item name="ejemplo4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="julio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="julio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
-              <item name="principiosDisenyo" type="462c0819:PsiDirectoryNode" />
-              <item name="ejemplo4" type="462c0819:PsiDirectoryNode" />
-              <item name="original" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="julio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="julio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
-              <item name="principiosDisenyo" type="462c0819:PsiDirectoryNode" />
-              <item name="ejemplo4" type="462c0819:PsiDirectoryNode" />
-              <item name="solucion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="julio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="julio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
-              <item name="principiosDisenyo" type="462c0819:PsiDirectoryNode" />
-              <item name="ejemplo4" type="462c0819:PsiDirectoryNode" />
-              <item name="solucion" type="462c0819:PsiDirectoryNode" />
-              <item name="emisores" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="julio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="julio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
-              <item name="principiosDisenyo" type="462c0819:PsiDirectoryNode" />
-              <item name="ejemploAnimalesOCP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="julio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="julio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="sucesiones" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="julio" type="b2602c69:ProjectViewProjectNode" />
@@ -441,7 +349,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594292483391" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594297150413" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/javaforbigdata072020-master" />
@@ -449,9 +357,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.everis.dna.javaForBigData.testing.practica" />
+      <recent name="com.everis.dna.javaForBigData.testing.sucesiones" />
+      <recent name="com.everis.dna.javaForBigData.testing.sucesiones.Fibonacci" />
       <recent name="com.everis.dna.javaForBigData.strings" />
       <recent name="com.everis.dna.javaForBigData.bucles" />
-      <recent name="com.everis.dna.javaForBigData.lambdas.alumnos" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.everis.dna.javaForBigData.principiosDisenyo.Animales" />
@@ -485,7 +395,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="JUnit.OperadorDeSucesionesTest.test1">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.helloWorld.HelloWorld" />
       <module name="com.everis.dna.javaForBigData.julio.main" />
@@ -499,81 +409,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="julio [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="assemble" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="julio [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="StringUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OperadorDeSucesionesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.everis.dna.javaForBigData.julio.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.everis.dna.javaForBigData.strings.*" />
+          <option name="PATTERN" value="com.everis.dna.javaForBigData.testing.sucesiones.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.everis.dna.javaForBigData.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.strings.StringUtilsTest" />
+      <option name="PACKAGE_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones" />
+      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones.OperadorDeSucesionesTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUtilsTest.contarAparicionesDeAenFranciaDevuelve2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.everis.dna.javaForBigData.julio.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.everis.dna.javaForBigData.strings.*" />
+          <option name="PATTERN" value="com.everis.dna.javaForBigData.testing.sucesiones.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.everis.dna.javaForBigData.strings" />
-      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.strings.StringUtilsTest" />
-      <option name="METHOD_NAME" value="contarAparicionesDeAenFranciaDevuelve2" />
+      <option name="PACKAGE_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones" />
+      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones.OperadorDeSucesionesTest" />
+      <option name="METHOD_NAME" value="dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadorDeSucesionesTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.everis.dna.javaForBigData.julio.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.everis.dna.javaForBigData.testing.sucesiones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones" />
+      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones.OperadorDeSucesionesTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SucesionDeFibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.everis.dna.javaForBigData.julio.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.everis.dna.javaForBigData.testing.sucesiones.Fibonacci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones.Fibonacci" />
+      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones.Fibonacci.SucesionDeFibonacciTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OperadorDeSucesionesTest.test1" />
+        <item itemvalue="JUnit.OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" />
+        <item itemvalue="JUnit.OperadorDeSucesionesTest" />
+        <item itemvalue="JUnit.SucesionDeFibonacciTest" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="JUnit.StringUtilsTest" />
-        <item itemvalue="JUnit.StringUtilsTest.contarAparicionesDeAenFranciaDevuelve2" />
-        <item itemvalue="Gradle.julio [build]" />
-        <item itemvalue="Gradle.julio [assemble]" />
       </list>
     </recent_temporary>
   </component>
@@ -595,16 +497,17 @@
       <option name="project" value="LOCAL" />
       <updated>1594275108396</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Solucion String1, SOLID">
+      <created>1594292569899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594292569899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BuclesTest_sumatorioDe5TieneQueDar15 - 2020.07.09 at 09h 36m 20s.xml">
-      <configuration name="BuclesTest.sumatorioDe5TieneQueDar15" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BuclesTest_sumatorioDe5TieneQueDar15 - 2020.07.09 at 09h 36m 46s.xml">
-      <configuration name="BuclesTest.sumatorioDe5TieneQueDar15" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BuclesTest - 2020.07.09 at 09h 38m 26s.xml">
       <configuration name="BuclesTest" configurationId="JUnit" />
     </history-entry>
@@ -613,6 +516,27 @@
     </history-entry>
     <history-entry file="StringUtilsTest - 2020.07.09 at 10h 32m 06s.xml">
       <configuration name="StringUtilsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SucesionDeFibonacciTest - 2020.07.09 at 13h 25m 05s.xml">
+      <configuration name="SucesionDeFibonacciTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OperadorDeSucesionesTest - 2020.07.09 at 13h 31m 50s.xml">
+      <configuration name="OperadorDeSucesionesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OperadorDeSucesionesTest_dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso - 2020.07.09 at 13h 40m 30s.xml">
+      <configuration name="OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OperadorDeSucesionesTest_dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso - 2020.07.09 at 13h 41m 05s.xml">
+      <configuration name="OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OperadorDeSucesionesTest_dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso - 2020.07.09 at 13h 44m 32s.xml">
+      <configuration name="OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OperadorDeSucesionesTest_test1 - 2020.07.09 at 13h 47m 34s.xml">
+      <configuration name="OperadorDeSucesionesTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OperadorDeSucesionesTest_dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso - 2020.07.09 at 13h 49m 01s.xml">
+      <configuration name="OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -633,8 +557,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.219935" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3846154" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -651,186 +575,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Paquete inicial ejemplos y ejercicios sin resolver" />
-    <option name="LAST_COMMIT_MESSAGE" value="Paquete inicial ejemplos y ejercicios sin resolver" />
+    <MESSAGE value="Solucion String1, SOLID" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solucion String1, SOLID" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sucesion1.mediaDeLaSucesion()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sucesion1.valoresDeLaSucesion()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sucesion1.getElemento(5)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Ciudad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/OperadorDeSucesiones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/lambdas/alumnos/Alumno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/AlumnoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-          <folding>
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
-            <element signature="e#1042#1043#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
-            <element signature="e#1110#1111#0" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-            <element signature="e#1194#1195#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1302#1303#0" expanded="true" />
-            <element signature="e#1329#1330#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1430#1431#0" expanded="true" />
-            <element signature="e#1517#1518#0" expanded="true" />
-            <element signature="e#1544#1545#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ArrayUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo2/explicacion.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo3/explicacion.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="47" selection-start-column="47" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo2/Coche.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/bucles/Bucles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/bucles/BuclesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#1010#1011#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="621" column="11" selection-start-line="621" selection-start-column="11" selection-end-line="621" selection-end-column="11" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/strings/StringUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/strings/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="e#445#446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/Animales/problema/animales.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1070,16 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/GestorClimatologico.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="97" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/emisores/EmisorDeEmails.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -1101,13 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/Emisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="72" lean-forward="true" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/EmisorDeEmails.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1115,17 +865,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/GestorClimatologico.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="58" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/ClaseA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/GestorClimatologico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="4" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/GestorClimatologico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="88" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/solucion/emisores/Emisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="72" lean-forward="true" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/NumerosTriangulares/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/SucesionDePotenciasDeDos/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/NumerosTriangulares/SucesionDeNumerosTriangulares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/sucesiones/Fibonacci/SucesionDeFibonacciTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/SucesionDePotenciasDeDos/SucesionDePotenciasDeDos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/Fibonacci/SucesionDeFibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="100" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/Sucesion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/sucesiones/OperadorDeSucesiones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/sucesiones/OperadorDeSucesionesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Ciudad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Empresa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Hotel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Provincia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/OfertaHotelera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/practica/OfertaHoteleraTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
