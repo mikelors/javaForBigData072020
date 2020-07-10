@@ -40,14 +40,17 @@ public class ListUtils {
 
     public static boolean existeElemento (List<Integer> listaDeNumeros, Integer elemento) {
 
-        for (Integer valorActual : listaDeNumeros) {
-            if (valorActual.equals(elemento))
-                return true;
-        }
-        return false;
+//        for (Integer valorActual : listaDeNumeros) {
+//            if (valorActual.equals(elemento))
+//                return true;
+//        }
+//        return false;
+        return listaDeNumeros.contains(elemento);
     }
 
-    public static Integer obtenerTamanyoLista (List<Integer> listaDeNumeros) { return 0;}
+    public static Integer obtenerTamanyoLista (List<Integer> listaDeNumeros) {
+        return listaDeNumeros.size();
+    }
 
     public static Integer obtenerNumeroApariciones (List<Integer> listaDeNumeros, Integer elemento) { return 0;}
 

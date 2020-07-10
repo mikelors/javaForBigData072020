@@ -10,7 +10,7 @@ public class ContadorCaracteresTest {
     public void DevuelveCorrectamenteElNumeroDeAparicionesDeCiertoCaracter(){
         ContadorCaracteres contadorCaracteres = new ContadorCaracteres("En un lugar de la Mancha de cuyo nombre no quiero acordarme");
 
-        assertEquals(contadorCaracteres.obtenerNumeroDeApariciones('e'),3);
+        assertEquals(contadorCaracteres.obtenerNumeroDeApariciones('e'),5);
     }
 
 }
