@@ -7,7 +7,26 @@ import java.util.Map;
 
 public class ListUtils {
 
-    public static Integer obtenerMayorElemento(List<Integer> listaDeNumeros){ return null;}
+    public static Integer obtenerMayorElemento(List<Integer> listaDeNumeros){
+        Integer max = 0;
+        for (int i = 0; i < listaDeNumeros.size(); i++) {
+            Integer valorActual = listaDeNumeros.get(i);
+            if (valorActual > max) {
+                max = valorActual;
+            }
+        }
+        return max;
+    }
+
+    public static Integer obtenerMayorElemento2(List<Integer> listaDeNumeros){
+        Integer max = 0;
+        for (Integer valorActual : listaDeNumeros) {
+            if (valorActual > max){
+                max = valorActual;
+            }
+        }
+        return max;
+    }
 
     public static Integer obtenerMedia (List<Integer> listaDeNumeros) { return null;}
 

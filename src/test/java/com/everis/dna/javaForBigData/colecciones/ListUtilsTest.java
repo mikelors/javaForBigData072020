@@ -3,16 +3,18 @@ package com.everis.dna.javaForBigData.colecciones;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.Assert.*;
 
 public class ListUtilsTest {
 
-    List lista;
+    List<Integer> lista;
 
     @Before
     public void before() {
+        lista = new ArrayList<>();
         lista.add(8);
         lista.add(1);
         lista.add(82);
