@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a850ed1a-f41c-4996-bfdf-25767aadb25a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteresTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ArrayUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/AlumnoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteres.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -83,11 +83,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ArrayUtils.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteres.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteresTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,15 +141,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
               <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/Empresa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -160,8 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/AlumnoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/explicacion.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo2/Coche.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo4/original/GestorClimatologico.java" />
@@ -211,6 +226,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/OfertaHotelera.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/practica/OfertaHoteleraTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteres.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteresTest.java" />
       </list>
     </option>
   </component>
@@ -343,7 +360,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594356505759" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594357057034" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/javaforbigdata072020-master" />
@@ -351,11 +368,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.everis.dna.javaForBigData.colecciones" />
       <recent name="com.everis.dna.javaForBigData.testing.practica" />
       <recent name="com.everis.dna.javaForBigData.testing.sucesiones" />
       <recent name="com.everis.dna.javaForBigData.testing.sucesiones.Fibonacci" />
       <recent name="com.everis.dna.javaForBigData.strings" />
-      <recent name="com.everis.dna.javaForBigData.bucles" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.everis.dna.javaForBigData.principiosDisenyo.Animales" />
@@ -389,7 +406,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OfertaHoteleraTest.obtenerHotelPorIDDevulveHotelCorrecto">
+  <component name="RunManager" selected="JUnit.ContadorCaracteresTest.test">
+    <configuration name="ContadorCaracteresTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.everis.dna.javaForBigData.julio.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.everis.dna.javaForBigData.colecciones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.everis.dna.javaForBigData.colecciones" />
+      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.colecciones.ContadorCaracteresTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OfertaHoteleraTest.obtenerHotelPorIDDevulveHotelCorrecto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.everis.dna.javaForBigData.julio.test" />
       <extension name="coverage">
@@ -452,27 +485,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SucesionDeFibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.everis.dna.javaForBigData.julio.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.everis.dna.javaForBigData.testing.sucesiones.Fibonacci.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones.Fibonacci" />
-      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.testing.sucesiones.Fibonacci.SucesionDeFibonacciTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ContadorCaracteresTest.test" />
         <item itemvalue="JUnit.OfertaHoteleraTest.obtenerHotelPorIDDevulveHotelCorrecto" />
         <item itemvalue="JUnit.OperadorDeSucesionesTest.test1" />
         <item itemvalue="JUnit.OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" />
         <item itemvalue="JUnit.OperadorDeSucesionesTest" />
-        <item itemvalue="JUnit.SucesionDeFibonacciTest" />
       </list>
     </recent_temporary>
   </component>
@@ -515,25 +534,24 @@
       <option name="project" value="LOCAL" />
       <updated>1594354588242</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Enunciado HashMap">
+      <created>1594356517844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594356517844</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Enunciado HashMap">
+      <created>1594356645617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594356645617</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringUtilsTest_contarAparicionesDeAenFranciaDevuelve2 - 2020.07.09 at 10h 30m 57s.xml">
-      <configuration name="StringUtilsTest.contarAparicionesDeAenFranciaDevuelve2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StringUtilsTest - 2020.07.09 at 10h 32m 06s.xml">
-      <configuration name="StringUtilsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SucesionDeFibonacciTest - 2020.07.09 at 13h 25m 05s.xml">
-      <configuration name="SucesionDeFibonacciTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OperadorDeSucesionesTest - 2020.07.09 at 13h 31m 50s.xml">
-      <configuration name="OperadorDeSucesionesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OperadorDeSucesionesTest_dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso - 2020.07.09 at 13h 40m 30s.xml">
-      <configuration name="OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OperadorDeSucesionesTest_dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso - 2020.07.09 at 13h 41m 05s.xml">
       <configuration name="OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" configurationId="JUnit" />
     </history-entry>
@@ -549,6 +567,21 @@
     <history-entry file="OfertaHoteleraTest_obtenerHotelPorIDDevulveHotelCorrecto - 2020.07.10 at 06h 15m 38s.xml">
       <configuration name="OfertaHoteleraTest.obtenerHotelPorIDDevulveHotelCorrecto" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ContadorCaracteresTest_test - 2020.07.10 at 06h 54m 22s.xml">
+      <configuration name="ContadorCaracteresTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContadorCaracteresTest_test - 2020.07.10 at 06h 55m 13s.xml">
+      <configuration name="ContadorCaracteresTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContadorCaracteresTest_test - 2020.07.10 at 06h 55m 34s.xml">
+      <configuration name="ContadorCaracteresTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContadorCaracteresTest_test - 2020.07.10 at 06h 56m 53s.xml">
+      <configuration name="ContadorCaracteresTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContadorCaracteresTest_test - 2020.07.10 at 06h 56m 59s.xml">
+      <configuration name="ContadorCaracteresTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -559,7 +592,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
@@ -568,7 +601,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3846154" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3846154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -589,7 +622,20 @@
     <MESSAGE value="Solucion String1, SOLID" />
     <MESSAGE value="Fin clase día II" />
     <MESSAGE value="Ejemplo Test OfertaHotelera" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejemplo Test OfertaHotelera" />
+    <MESSAGE value="Enunciado HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enunciado HashMap" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteres.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -611,26 +657,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/problema/ClaseB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/problema/ClaseC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/problema/animales/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1026,8 +1052,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteres.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteresTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
