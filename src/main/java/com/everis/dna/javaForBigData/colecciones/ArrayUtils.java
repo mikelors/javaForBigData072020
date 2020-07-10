@@ -15,5 +15,4 @@ public class ArrayUtils {
         return null;
     }
 
-    public Map<Character, Integer> contarCaracteres (String cadena) {return null;}
 }
