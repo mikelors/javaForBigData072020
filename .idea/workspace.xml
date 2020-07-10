@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a850ed1a-f41c-4996-bfdf-25767aadb25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/practica/OfertaHoteleraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/sucesiones/Fibonacci/SucesionDeFibonacciTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/sucesiones/OperadorDeSucesionesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/OfertaHotelera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/testing/practica/OfertaHotelera.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -119,7 +111,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/practica/OfertaHoteleraTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="160">
               <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -340,6 +332,25 @@
               <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
               <item name="strings" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="julio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="julio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="julio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="julio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaForBigData" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+              <item name="practica" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -349,7 +360,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594297150413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594354529983" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/javaforbigdata072020-master" />
@@ -395,16 +406,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OperadorDeSucesionesTest.test1">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.helloWorld.HelloWorld" />
-      <module name="com.everis.dna.javaForBigData.julio.main" />
+  <component name="RunManager" selected="JUnit.OfertaHoteleraTest.obtenerHotelPorIDDevulveHotelCorrecto">
+    <configuration name="OfertaHoteleraTest.obtenerHotelPorIDDevulveHotelCorrecto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.everis.dna.javaForBigData.julio.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.everis.dna.javaForBigData.helloWorld.*" />
+          <option name="PATTERN" value="com.everis.dna.javaForBigData.testing.practica.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.everis.dna.javaForBigData.testing.practica" />
+      <option name="MAIN_CLASS_NAME" value="com.everis.dna.javaForBigData.testing.practica.OfertaHoteleraTest" />
+      <option name="METHOD_NAME" value="obtenerHotelPorIDDevulveHotelCorrecto" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -471,11 +485,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OfertaHoteleraTest.obtenerHotelPorIDDevulveHotelCorrecto" />
         <item itemvalue="JUnit.OperadorDeSucesionesTest.test1" />
         <item itemvalue="JUnit.OperadorDeSucesionesTest.dosSucesionesConMismoSumatorioYDistintaMediaDevuelveFalso" />
         <item itemvalue="JUnit.OperadorDeSucesionesTest" />
         <item itemvalue="JUnit.SucesionDeFibonacciTest" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594292569899</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fin clase día II">
+      <created>1594297309287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594297309287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -576,7 +597,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Paquete inicial ejemplos y ejercicios sin resolver" />
     <MESSAGE value="Solucion String1, SOLID" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solucion String1, SOLID" />
+    <MESSAGE value="Fin clase día II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fin clase día II" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -1016,7 +1038,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/testing/practica/OfertaHoteleraTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="160">
           <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />

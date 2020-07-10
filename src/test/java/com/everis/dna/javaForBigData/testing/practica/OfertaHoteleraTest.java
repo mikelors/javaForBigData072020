@@ -1,24 +1,28 @@
 package com.everis.dna.javaForBigData.testing.practica;
 
+import org.junit.Before;
 import org.junit.Test;
+import org.mockito.Mockito;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.mockito.Mockito.when;
 
 public class OfertaHoteleraTest {
 
     @Test
-    public void test(){
-        Hotel hotel1 = ??;
-        Hotel hotel2 = ??;
-        Hotel hotel3 = ??;
+    public void obtenerHotelPorIDDevulveHotelCorrecto () {
+        Hotel hotel1 = Mockito.mock(Hotel.class);
+        when(hotel1.getId()).thenReturn(1);
         List<Hotel> listaHoteles = new ArrayList<>();
         listaHoteles.add(hotel1);
-        listaHoteles.add(hotel2);
-        listaHoteles.add(hotel3);
         OfertaHotelera gestorOferta = new OfertaHotelera(listaHoteles);
+
+        Hotel hotelObtenido = gestorOferta.obtenerHotelPorId(1);
+
+        assertEquals(hotelObtenido, hotel1);
     }
 
 }
