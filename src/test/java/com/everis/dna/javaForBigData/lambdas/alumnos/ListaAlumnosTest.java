@@ -6,8 +6,6 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.Assert.*;
-
 public class ListaAlumnosTest {
     ListaAlumnos listaAlumnos;
 
@@ -38,6 +36,39 @@ public class ListaAlumnosTest {
     public void Laboratorio(){
         //probando obtenerAlumnosCuyoApellidoEmpiezaPor
         listaAlumnos.obtenerAlumnosCuyoApellidoEmpiezaPor('M').println();
+        System.out.println("----------");
+        listaAlumnos.obtenerAlumnosConNotaSuperiorA(8).println();
+        System.out.println("----------");
+        listaAlumnos.obtenerAlumnosApuntadosACurso("Java 8").println();
+        System.out.println("----------");
+        listaAlumnos.devolverLosPrimerosAlumnos(4).println();
+        System.out.println("----------");
+        listaAlumnos.obtenerAlumnosOrdenadosPorApellido().println();
+        System.out.println("----------");
+        System.out.println("El alumno más joven es: " + listaAlumnos.alumnoMasJovenConSorted().toString());
+        System.out.println("----------");
+        System.out.println("El alumno más joven es: " + listaAlumnos.alumnoMasJovenConMin().toString());
+        System.out.println("----------");
+        List<Double> notas = listaAlumnos.obtenerNotas();
+        notas.stream().forEach((nota)-> System.out.println(nota));
+        System.out.println("----------");
+        System.out.println("La media es: " + listaAlumnos.edadMediaConMapReduce());
+        System.out.println("----------");
+        System.out.println("La media es: " + listaAlumnos.edadMediaConAverage());
+        System.out.println("----------");
+        List<String> apellidos = listaAlumnos.obtenerListadoApellidosEnMayusculas();
+        apellidos.stream().forEach((x) -> System.out.println(x));
+        System.out.println("----------");
+        System.out.println("La nota más baja es: " + listaAlumnos.obtenerNotaMasBajaConMap());
+        System.out.println("La nota más baja es: " + listaAlumnos.obtenerNotaMasBajaSinMap());
+        System.out.println("----------");
+        System.out.println("Alumnos suspendidos: " + listaAlumnos.obtenerNumeroDeAlumnosSuspendidos());
+        System.out.println("----------");
+        System.out.println("Cedulas: " + listaAlumnos.obtenerTodasLasCedulasEnUnUnicoStringSeparadosPorGuionBajo());
+        System.out.println("----------");
+        System.out.println("Nota media: " + listaAlumnos.obtenerNotaMediaAlumnosAsignatura("PHP"));
+        System.out.println("----------");
+        System.out.println("Asignatura más popular: " + listaAlumnos.obtenerAsignaturaMasPopularEntreAlumnosMasJovenes(25) );
 
 
     }

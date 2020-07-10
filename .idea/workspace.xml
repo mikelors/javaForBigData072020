@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a850ed1a-f41c-4996-bfdf-25767aadb25a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ListUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/helloWorld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/helloWorld/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteresTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteresTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ListUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ListUtilsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ListUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="71" column="39" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="39" />
+            <state relative-caret-position="220">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="19" />
               <folding>
                 <element signature="e#1550#1551#0" expanded="true" />
                 <element signature="e#1594#1595#0" expanded="true" />
@@ -74,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/helloWorld/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="460">
+              <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,32 +94,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ListUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="29" column="22" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="29" selection-end-column="22" />
+            <state relative-caret-position="240">
+              <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/Conductor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ContadorCaracteres.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="37" column="9" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="37" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,11 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+            <state relative-caret-position="236">
+              <caret line="144" column="35" selection-start-line="144" selection-start-column="35" selection-end-line="144" selection-end-column="35" />
               <folding>
                 <element signature="e#218#219#0" expanded="true" />
                 <element signature="e#256#257#0" expanded="true" />
@@ -161,10 +138,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/stream/DoubleStream.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/bucles/BuclesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="39" column="70" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="70" />
+            <state relative-caret-position="476">
+              <caret line="70" column="121" selection-start-line="70" selection-start-column="121" selection-end-line="70" selection-end-column="121" />
             </state>
           </provider>
         </entry>
@@ -241,8 +232,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ListUtilsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ListUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/helloWorld/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnos.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java" />
       </list>
     </option>
   </component>
@@ -406,7 +397,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594372008948" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594381684545" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/javaforbigdata072020-master" />
@@ -638,38 +629,45 @@
       <option name="project" value="LOCAL" />
       <updated>1594366429478</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Primeros ejemplos Streams">
+      <created>1594372060617</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1594372060617</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ContadorCaracteresTest_test - 2020.07.10 at 06h 56m 53s.xml">
-      <configuration name="ContadorCaracteresTest.test" configurationId="JUnit" />
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 12h 04m 11s.xml">
+      <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContadorCaracteresTest_test - 2020.07.10 at 06h 56m 59s.xml">
-      <configuration name="ContadorCaracteresTest.test" configurationId="JUnit" />
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 12h 08m 38s.xml">
+      <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OfertaHoteleraTest_obtenerHotelPorIDDevulveHotelCorrecto - 2020.07.10 at 08h 10m 05s.xml">
-      <configuration name="OfertaHoteleraTest.obtenerHotelPorIDDevulveHotelCorrecto" configurationId="JUnit" />
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 12h 10m 26s.xml">
+      <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListUtilsTest_obtenerMayorDevuelveElValorMayor - 2020.07.10 at 08h 44m 34s.xml">
-      <configuration name="ListUtilsTest.obtenerMayorDevuelveElValorMayor" configurationId="JUnit" />
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 12h 20m 20s.xml">
+      <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListUtilsTest_obtenerMediaDevuelveLaMedia - 2020.07.10 at 09h 03m 48s.xml">
-      <configuration name="ListUtilsTest.obtenerMediaDevuelveLaMedia" configurationId="JUnit" />
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 12h 45m 48s.xml">
+      <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContadorCaracteresTest_DevuelveCorrectamenteElNumeroDeAparicionesDeCiertoCaracter - 2020.07.10 at 09h 29m 54s.xml">
-      <configuration name="ContadorCaracteresTest.DevuelveCorrectamenteElNumeroDeAparicionesDeCiertoCaracter" configurationId="JUnit" />
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 12h 48m 40s.xml">
+      <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ContadorCaracteresTest_DevuelveCorrectamenteElNumeroDeAparicionesDeCiertoCaracter - 2020.07.10 at 09h 30m 24s.xml">
-      <configuration name="ContadorCaracteresTest.DevuelveCorrectamenteElNumeroDeAparicionesDeCiertoCaracter" configurationId="JUnit" />
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 13h 23m 38s.xml">
+      <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListUtilsTest_ordenarLista - 2020.07.10 at 10h 00m 29s.xml">
-      <configuration name="ListUtilsTest.ordenarLista" configurationId="JUnit" />
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 13h 32m 18s.xml">
+      <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListUtilsTest_ordenarLista - 2020.07.10 at 10h 13m 03s.xml">
-      <configuration name="ListUtilsTest.ordenarLista" configurationId="JUnit" />
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 13h 34m 14s.xml">
+      <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 10h 39m 29s.xml">
+    <history-entry file="ListaAlumnosTest_Laboratorio - 2020.07.10 at 13h 38m 34s.xml">
       <configuration name="ListaAlumnosTest.Laboratorio" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -677,7 +675,7 @@
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07089552" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13752665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -686,7 +684,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24702059" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23726977" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.20585048" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -716,7 +714,8 @@
     <MESSAGE value="Enunciado List" />
     <MESSAGE value="Resuelto primer ejemplo ArrayList" />
     <MESSAGE value="HashMap ejemplo realizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashMap ejemplo realizado" />
+    <MESSAGE value="Primeros ejemplos Streams" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeros ejemplos Streams" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -771,20 +770,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/solucion/animales/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemploAnimalesOCP/solucion/animales/Elefante.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/principiosDisenyo/ejemplo1/explicacion.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1123,41 +1108,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ListUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="71" column="39" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="39" />
-          <folding>
-            <element signature="e#1550#1551#0" expanded="true" />
-            <element signature="e#1594#1595#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="183" column="18" selection-start-line="183" selection-start-column="18" selection-end-line="183" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ListUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/helloWorld/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1168,21 +1122,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/bucles/BuclesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="39" column="70" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="70" />
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/colecciones/ListUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#1550#1551#0" expanded="true" />
+            <element signature="e#1594#1595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/colecciones/ListUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/stream/DoubleStream.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/helloWorld/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+        <state relative-caret-position="236">
+          <caret line="144" column="35" selection-start-line="144" selection-start-column="35" selection-end-line="144" selection-end-column="35" />
           <folding>
             <element signature="e#218#219#0" expanded="true" />
             <element signature="e#256#257#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/everis/dna/javaForBigData/lambdas/alumnos/ListaAlumnosTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="70" column="121" selection-start-line="70" selection-start-column="121" selection-end-line="70" selection-end-column="121" />
         </state>
       </provider>
     </entry>
