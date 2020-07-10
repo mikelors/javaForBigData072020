@@ -7,9 +7,7 @@ import java.util.Map;
 
 public class ListUtils {
 
-    public static Integer obtenerMayorElemento(List<Integer> listaDeNumeros){
-        return null;
-    }
+    public static Integer obtenerMayorElemento(List<Integer> listaDeNumeros){ return null;}
 
     public static Integer obtenerMedia (List<Integer> listaDeNumeros) { return null;}
 
@@ -20,5 +18,7 @@ public class ListUtils {
     public static Integer obtenerTamanyoLista (List<Integer> listaDeNumeros) { return 0;}
 
     public static Integer obtenerNumeroApariciones (List<Integer> listaDeNumeros, Integer elemento) { return 0;}
+
+    public static Integer obtenerMediaDeNumerosEnPosicionesPares (List<Integer> listaDeNumeros) {return 0;}
 
 }
