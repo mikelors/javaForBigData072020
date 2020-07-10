@@ -39,4 +39,15 @@ public class ListUtilsTest {
         assertEquals(valorObtenido,valorEsperado);
     }
 
+
+
+    @Test
+    public void obtenerMediaDevuelveLaMedia() {
+        Integer valorEsperado = 13;
+
+        Integer valorObtenido = ListUtils.obtenerMedia(lista);
+
+        assertEquals(valorObtenido,valorEsperado);
+    }
+
 }

@@ -28,11 +28,24 @@ public class ListUtils {
         return max;
     }
 
-    public static Integer obtenerMedia (List<Integer> listaDeNumeros) { return null;}
+    public static Integer obtenerMedia (List<Integer> listaDeNumeros) {
+        Integer acumulado = 0;
+        for (Integer valorActual : listaDeNumeros) {
+             acumulado += valorActual;
+        }
+        return acumulado/listaDeNumeros.size();
+    }
 
     public static Integer obtenerSumatorio (List<Integer> listaDeNumeros) { return null;}
 
-    public static boolean existeElemento (List<Integer> listaDeNumeros, Integer elemento) { return false;}
+    public static boolean existeElemento (List<Integer> listaDeNumeros, Integer elemento) {
+
+        for (Integer valorActual : listaDeNumeros) {
+            if (valorActual.equals(elemento))
+                return true;
+        }
+        return false;
+    }
 
     public static Integer obtenerTamanyoLista (List<Integer> listaDeNumeros) { return 0;}
 
