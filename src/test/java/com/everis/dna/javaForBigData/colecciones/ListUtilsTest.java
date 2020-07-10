@@ -50,4 +50,14 @@ public class ListUtilsTest {
         assertEquals(valorObtenido,valorEsperado);
     }
 
+
+
+    @Test
+    public void ordenarLista() {
+        Integer valorEsperado = 13;
+
+        List<Integer> listaOrdenada = ListUtils.obtenerListaOrdenada(lista);
+
+        assertEquals(listaOrdenada.size(), 13);
+    }
 }

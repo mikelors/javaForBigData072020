@@ -1,9 +1,6 @@
 package com.everis.dna.javaForBigData.colecciones;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class ListUtils {
 
@@ -56,4 +53,24 @@ public class ListUtils {
 
     public static Integer obtenerMediaDeNumerosEnPosicionesPares (List<Integer> listaDeNumeros) {return 0;}
 
+//    public static List<Integer> obtenerListaOrdenada(List<Integer> listaDeNumeros) {
+//        Collections.sort(
+//                listaDeNumeros,
+//                new Comparator<Integer>() {
+//                    @Override
+//                    public int compare(Integer o1, Integer o2) {
+//                    return o1.compareTo(o2);
+//                    }
+//                }
+//        );
+//        return listaDeNumeros;
+//    }
+
+    public static List<Integer> obtenerListaOrdenada(List<Integer> listaDeNumeros) {
+        Collections.sort(
+                listaDeNumeros,
+                (a,b) -> a.compareTo(b)
+        );
+        return listaDeNumeros;
+    }
 }

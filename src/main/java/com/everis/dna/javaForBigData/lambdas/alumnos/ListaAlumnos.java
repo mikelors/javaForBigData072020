@@ -12,11 +12,22 @@ public class ListaAlumnos {
     }
 
     public void println(){
-
+        alumnos
+                .stream()
+                .forEach((alumno) -> System.out.println(alumno));
     }
 
     public ListaAlumnos obtenerAlumnosCuyoApellidoEmpiezaPor(char inicial){
-        return this;
+        ListaAlumnos resultado;
+
+        List<Alumno> listaAlumnos = alumnos.stream()
+                .filter((alumno) -> alumno.getApellidos().startsWith(String.valueOf(inicial)))
+                .collect(Collectors.toList());  //<<-- Nos permite volver a sacar un Arraylist a partir de un Stream. Es el inverso de Stream()
+
+        resultado = new ListaAlumnos(listaAlumnos);
+        return resultado;
+
+
     }
 
     public ListaAlumnos obtenerAlumnosConNotaSuperiorA(double nota){

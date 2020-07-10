@@ -13,4 +13,11 @@ public class ContadorCaracteresTest {
         assertEquals(contadorCaracteres.obtenerNumeroDeApariciones('e'),5);
     }
 
+//    @Test
+//    public void DevuelveCorrectamenteElCaracterConMasApariciones(){
+//        ContadorCaracteres contadorCaracteres = new ContadorCaracteres("En un lugar de la Mancha de cuyo nombre no quiero acordarme");
+//        Character character = ' ';
+//
+//        assertEquals(contadorCaracteres.obtenerCaracterConMasApariciones(),character);
+//    }
 }

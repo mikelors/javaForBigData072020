@@ -1,6 +1,7 @@
 package com.everis.dna.javaForBigData.lambdas.alumnos;
 
 import org.junit.Before;
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,5 +32,13 @@ public class ListaAlumnosTest {
         listado.add(new Alumno(15, "1717975232", "Gabriel Jaime", "Jiménez Gómez", "Java Script", 10, 18));
 
         listaAlumnos = new ListaAlumnos(listado);
+    }
+
+    @Test
+    public void Laboratorio(){
+        //probando obtenerAlumnosCuyoApellidoEmpiezaPor
+        listaAlumnos.obtenerAlumnosCuyoApellidoEmpiezaPor('M').println();
+
+
     }
 }

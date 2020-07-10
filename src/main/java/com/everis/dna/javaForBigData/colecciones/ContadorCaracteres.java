@@ -1,5 +1,7 @@
 package com.everis.dna.javaForBigData.colecciones;
 
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -24,4 +26,14 @@ public class ContadorCaracteres {
     public int obtenerNumeroDeApariciones (char caracter) {
         return mapaDeCaracteres.get(caracter);
     }
+
+//    public Character obtenerCaracterConMasApariciones() {
+//
+//        Collections.sort(mapaDeCaracteres, new Comparator<Integer>() {
+//            @Override
+//            public int compare(Integer a, Integer b) {
+//                return b.compareTo(a);
+//            }
+//
+//    });
 }
